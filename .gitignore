@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/01_GUI-App/nbproject/private/
